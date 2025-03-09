@@ -1,0 +1,1 @@
+RecipeBook is a beginner-level CRUD project that serves as a recipe book, developed using the MERN stack. It features a simple user interface for creating recipes, viewing all recipes, and saving recipes from other users. The project incorporates authentication using JSON Web Tokens (JWTs) for secure access.
